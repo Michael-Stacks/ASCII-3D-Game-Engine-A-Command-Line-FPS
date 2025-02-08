@@ -1,0 +1,4 @@
+﻿  ASCII 3D Game Engine – A Command Line FPS.cpp
+C:\Users\michael\source\repos\ASCII 3D Game Engine – A Command Line FPS\ASCII 3D Game Engine – A Command Line FPS.cpp(156,20): warning C4305: 'initialisation' : troncation de 'double' à 'float'
+C:\Users\michael\source\repos\ASCII 3D Game Engine – A Command Line FPS\ASCII 3D Game Engine – A Command Line FPS.cpp(165,17): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+  ASCII 3D Game Engine – A Command Line FPS.vcxproj -> C:\Users\michael\source\repos\ASCII 3D Game Engine – A Command Line FPS\x64\Debug\ASCII 3D Game Engine – A Command Line FPS.exe
