@@ -1,6 +1,6 @@
 🚀 A custom 3D Game Engine using nothing but ASCII in the Windows Command Prompt!
 
-This project is a First-Person Shooter built on a custom ASCII 3D Game Engine, written entirely in C++. No graphics libraries—just raw console manipulation, math, and creative rendering techniques. Experience raycasting, depth buffering, and smooth player movement, all running inside the Windows terminal!
+This project is a First-Person Shooter built on a custom ASCII 3D Game Engine, written entirely in C++. No graphics libraries—just raw console manipulation, pure math, and creative rendering techniques. Experience raycasting, depth buffering, and smooth player movement, all running inside the Windows terminal!
 
 🎮 Engine Features:
 ✔️ Raycasting-based 3D rendering using ASCII characters
